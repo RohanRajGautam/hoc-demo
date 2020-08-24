@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hoc-demo/static/css/main.a6b5e4e8.chunk.css",
+    "main.js": "/hoc-demo/static/js/main.921fe56b.chunk.js",
+    "main.js.map": "/hoc-demo/static/js/main.921fe56b.chunk.js.map",
+    "runtime-main.js": "/hoc-demo/static/js/runtime-main.10cab740.js",
+    "runtime-main.js.map": "/hoc-demo/static/js/runtime-main.10cab740.js.map",
+    "static/js/2.23bc132e.chunk.js": "/hoc-demo/static/js/2.23bc132e.chunk.js",
+    "static/js/2.23bc132e.chunk.js.map": "/hoc-demo/static/js/2.23bc132e.chunk.js.map",
+    "index.html": "/hoc-demo/index.html",
+    "precache-manifest.9b43f191e3a10d0c58aa846504a8ec4b.js": "/hoc-demo/precache-manifest.9b43f191e3a10d0c58aa846504a8ec4b.js",
+    "service-worker.js": "/hoc-demo/service-worker.js",
+    "static/css/main.a6b5e4e8.chunk.css.map": "/hoc-demo/static/css/main.a6b5e4e8.chunk.css.map",
+    "static/js/2.23bc132e.chunk.js.LICENSE.txt": "/hoc-demo/static/js/2.23bc132e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10cab740.js",
+    "static/js/2.23bc132e.chunk.js",
+    "static/css/main.a6b5e4e8.chunk.css",
+    "static/js/main.921fe56b.chunk.js"
+  ]
+}
