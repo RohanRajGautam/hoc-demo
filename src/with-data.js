@@ -8,7 +8,7 @@ const withData = (WrappedComponent) => {
       fetch(dataSource)
         .then((response) => response.json())
         .then((data) => setData(data.slice(0, 5)));
-    }, []);
+    }, [dataSource]);
 
     return <WrappedComponent data={data} {...props} />;
   };
